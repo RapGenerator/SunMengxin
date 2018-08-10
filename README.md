@@ -45,8 +45,8 @@
         Discuss the problem of the lycis data and agreed that we should build foundation quickly and firstly.
         learn the theoretical knowledge of LSTM and Seq2Seq  
         complete all questions. 
-     2018-7-30           
-       learn theoretical knowledge of CharRnn and LSTM 
-       answer the questions given by the tearcher Wang.
+    2018-7-30           
+        learn theoretical knowledge of CharRnn and LSTM 
+        answer the questions given by the tearcher Wang.
         
 ***
