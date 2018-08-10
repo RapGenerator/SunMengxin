@@ -16,9 +16,9 @@ the repository of SunMengxin for reporting project progress of Auto-Generating l
 ***
 # Day report
 2018-8-9          
-  Study the code of Hagongda and try to generate vec document.              
-  Find a template for lysics generation.          
+    Study the code of Hagongda and try to generate vec document.              
+    Find a template for lysics generation.          
 2018-8-8         
-  Read Paper and study slotfilling.             
-  Write a crawler for searching the data on Baidubaike websites.        
+    Read Paper and study slotfilling.             
+    Write a crawler for searching the data on Baidubaike websites.        
 ***
