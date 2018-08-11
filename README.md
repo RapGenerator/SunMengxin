@@ -7,7 +7,9 @@
 ## Code environment      
     - python 3.5       
     - Tensorflow 1.9         
-## code content         
+## code content  
+    - RapGenerator
+        RapGenerator code is project code version 1.
     - Seq2Seq            
         Seq2Seq code is created by Mr Pang and more detail could be found in Pang's reopository.         
     - CharRnn             
