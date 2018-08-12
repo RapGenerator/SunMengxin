@@ -1,7 +1,0 @@
-# Char RNN model
-## this model is base charRNN model to process the lyrics.
-
-# Environment 
-## python 3.5
-## tensorflow 1.9
-## data set is project original data
