@@ -19,6 +19,8 @@
         Initial search url is arbitry and result is stored as txt file in data folder.  
 
 # Day report
+    2018-8-12
+        complete the crawler model for obtaining the data in NetBase cloud music.        
     2018-8-11
         rewirte the Seq2Seq code
     2018-8-10
