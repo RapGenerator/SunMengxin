@@ -18,7 +18,9 @@
         This crawler is used for getting topic words from the first paragraph of Baidubaike webset.
         Initial search url is arbitry and result is stored as txt file in data folder.  
 
-# Day report
+# Day report    
+    2018-8-13
+        read the source code of Seq2Seq
     2018-8-12
         complete the crawler model for obtaining the data in NetBase cloud music.        
     2018-8-11
