@@ -15,9 +15,11 @@
     - CharRnn             
         The input of CharRnn model is data given by teacher and it could bring a really general result.
     - crawler           
-        This crawler is used for getting topic words from the first paragraph of Baidubaike webset.
+        This crawler is used for getting a lot of topic words from the first paragraph of Baidubaike webset.
         Initial search url is arbitry and result is stored as txt file in data folder.  
-
+    - crwaler-single-topic
+        This crawler is used for getting five topic words related given a word.
+        input must be a single word and result is stored as topic_word.txt.
 # Day report    
     2018-8-16
         rewrite crawler for topic words
