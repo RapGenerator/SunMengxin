@@ -19,6 +19,14 @@
         Initial search url is arbitry and result is stored as txt file in data folder.  
 
 # Day report    
+    2018-8-16
+        rewrite crawler for topic words
+    2018-8-15
+        write poster for ICPR conference
+        league construction
+    2018-8-14
+        discuss the way to display project
+        make clear the relationship between the RNN\LSTM\Encoder-Decoder\beamsearch
     2018-8-13
         read the source code of Seq2Seq
     2018-8-12
