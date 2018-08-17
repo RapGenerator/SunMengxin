@@ -2,7 +2,7 @@
 
      the repository of SunMengxin for reporting project progress of Auto-Generating lyrics
      
-# Code Description
+# Code Descriptionvisi
 
 ## Code environment      
     - python 3.5       
@@ -20,7 +20,11 @@
     - crwaler-single-topic
         This crawler is used for getting five topic words related given a word.
         input must be a single word and result is stored as topic_word.txt.
-# Day report    
+# Day report 
+    2018-8-17
+        learn the output and state of RNN/LSTM and the meaning of num_layers and rnn_size
+        visit the zhihu company
+        learn the debug of Seq2Seq model
     2018-8-16
         rewrite crawler for topic words
     2018-8-15
