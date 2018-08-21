@@ -21,6 +21,16 @@
         This crawler is used for getting five topic words related given a word.
         input must be a single word and result is stored as topic_word.txt.
 # Day report 
+    2018-8-20
+         take part in ICPR conference
+         take an interview
+         write an trip paper for Deecamp
+    2018-8-19
+         go to the National museum and Gui street
+    2018-8-18
+         debug the Seq2Seq code
+         debug the interface of xfyun
+         team building activity 
     2018-8-17
         learn the output and state of RNN/LSTM and the meaning of num_layers and rnn_size
         visit the zhihu company
